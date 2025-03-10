@@ -2,7 +2,7 @@
 
 <img width="470" alt="ThatsMyType" src="https://github.com/user-attachments/assets/f0d19281-8848-4b25-bee4-ffa5905ac683" />
 
-**DNS enumeration through targeted RFC queries**.
+DNS enumeration through targeted RFC queries.
 
 # Usage Instructions
 
