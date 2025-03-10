@@ -20,7 +20,8 @@ Image Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/5/59/Al
 
 # Testing Methodologies
 
-I created a spreadsheet using the IANA resources provided from the webpage above. It has served me as a good reference for testing possible DNS types.
+I created a spreadsheet using the IANA resources provided from the webpage above. It has served me as a good reference for testing possible DNS types. 
+The spreadsheet is available in the docs folder here.
 
 <img width="1540" alt="IANA_References" src="https://github.com/user-attachments/assets/cc57d3ec-e851-4664-8058-b12d73b0d281" />
 
