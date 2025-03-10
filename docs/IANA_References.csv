@@ -1,0 +1,98 @@
+TYPE,Meaning,Reference,Template,Registration Date
+*,A request for some or all records the server has available,[RFC1035][RFC6895][RFC8482],,
+A,a host address,[RFC1035],,
+A6,A6 (OBSOLETE - use AAAA),[RFC2874][RFC3226][RFC6563],,
+AAAA,IP6 Address,[RFC3596],,
+AFSDB,for AFS Data Base location,[RFC1183][RFC5864],,
+AMTRELAY,Automatic Multicast Tunneling Relay,[RFC8777],AMTRELAY/amtrelay-completed-template,2019-02-06
+APL,APL,[RFC3123],,
+ATMA,ATM Address,"[
+        ATM Forum Technical Committee, ""ATM Name System, V2.0"", Doc ID: AF-DANS-0152.000, July 2000. Available from and held in escrow by IANA.]",,
+AVC,Application Visibility and Control,[Wolfgang_Riedel],AVC/avc-completed-template,2016-02-26
+AXFR,transfer of an entire zone,[RFC1035][RFC5936],,
+CAA,Certification Authority Restriction,[RFC8659],CAA/caa-completed-template,2011-04-07
+CDNSKEY,DNSKEY(s) the Child wants reflected in DS,[RFC7344],,2014-06-16
+CDS,Child DS,[RFC7344],CDS/cds-completed-template,2011-06-06
+CERT,CERT,[RFC4398],,
+CLA,BP Convergence Layer Adapter,[draft-johnson-dns-ipn-cla-07],CLA/cla-completed-template,2024-07-25
+CNAME,the canonical name for an alias,[RFC1035],,
+CSYNC,Child-To-Parent Synchronization,[RFC7477],,2015-01-27
+DHCID,DHCID,[RFC4701],,
+DLV,DNSSEC Lookaside Validation (OBSOLETE),[RFC8749][RFC4431],,
+DNAME,DNAME,[RFC6672],,
+DNSKEY,DNSKEY,[RFC4034],,
+DOA,Digital Object Architecture,[draft-durand-doa-over-dns-02],DOA/doa-completed-template,2017-08-30
+DS,Delegation Signer,[RFC4034],,
+DSYNC,Endpoint discovery for delegation synchronization,[draft-ietf-dnsop-generalized-notify-03],DSYNC/dsync-completed-template,2024-12-10
+EID,Endpoint Identifier,[Michael_Patton][http://ana-3.lcs.mit.edu/~jnc/nimrod/dns.txt],,1995-06-01
+EUI48,an EUI-48 address,[RFC7043],EUI48/eui48-completed-template,2013-03-27
+EUI64,an EUI-64 address,[RFC7043],EUI64/eui64-completed-template,2013-03-27
+GID,,[IANA-Reserved],,
+GPOS,Geographical Position,[RFC1712],,
+HINFO,host information,[RFC1035],,
+HIP,Host Identity Protocol,[RFC8005],,
+HTTPS,SVCB-compatible type for use with HTTP,[RFC9460],HTTPS/https-completed-template,2020-06-30
+IPN,BP Node Number,[draft-johnson-dns-ipn-cla-07],IPN/ipn-completed-template,2024-07-25
+IPSECKEY,IPSECKEY,[RFC4025],,
+ISDN,for ISDN address,[RFC1183],,
+IXFR,incremental transfer,[RFC1995],,
+KEY,for security key,[RFC2536][RFC2539][RFC3110][RFC4034],,
+KX,Key Exchanger,[RFC2230],,
+L32,,[RFC6742],ILNP/l32-completed-template,
+L64,,[RFC6742],ILNP/l64-completed-template,
+LOC,Location Information,[RFC1876],,
+LP,,[RFC6742],ILNP/lp-completed-template,
+MAILA,mail agent RRs (OBSOLETE - see MX),[RFC1035],,
+MAILB,"mailbox-related RRs (MB, MG or MR)",[RFC1035],,
+MB,a mailbox domain name (EXPERIMENTAL),[RFC1035],,
+MD,a mail destination (OBSOLETE - use MX),[RFC1035],,
+MF,a mail forwarder (OBSOLETE - use MX),[RFC1035],,
+MG,a mail group member (EXPERIMENTAL),[RFC1035],,
+MINFO,mailbox or mail list information,[RFC1035],,
+MR,a mail rename domain name (EXPERIMENTAL),[RFC1035],,
+NAPTR,Naming Authority Pointer,[RFC3403],,
+NID,,[RFC6742],ILNP/nid-completed-template,
+NIMLOC,Nimrod Locator,[1][Michael_Patton][http://ana-3.lcs.mit.edu/~jnc/nimrod/dns.txt],,1995-06-01
+NINFO,NINFO,[Jim_Reid],NINFO/ninfo-completed-template,2008-01-21
+NS,an authoritative name server,[RFC1035],,
+NSAP,"for NSAP address, NSAP style A record (DEPRECATED)",[RFC1706][Moving TPC.INT and NSAP.INT infrastructure domains to historic],,
+NSAP-PTR,"for domain name pointer, NSAP style (DEPRECATED)",[RFC1706][Moving TPC.INT and NSAP.INT infrastructure domains to historic],,
+NSEC,NSEC,[RFC4034][RFC9077],,
+NSEC3,NSEC3,[RFC5155][RFC9077],,
+NSEC3PARAM,NSEC3PARAM,[RFC5155],,
+,a null RR (EXPERIMENTAL),[RFC1035],,
+NXNAME,NXDOMAIN indicator for Compact Denial of Existence,[draft-ietf-dnsop-compact-denial-of-existence-04],NXNAME/nxname-completed-template,2024-07-18
+NXT,Next Domain (OBSOLETE),[RFC2535][RFC3755],,
+OPENPGPKEY,OpenPGP Key,[RFC7929],OPENPGPKEY/openpgpkey-completed-template,2014-08-12
+OPT,OPT,[RFC3225][RFC6891],,
+PTR,a domain name pointer,[RFC1035],,
+PX,X.400 mail mapping information,[RFC2163],,
+RESINFO,Resolver Information as Key/Value Pairs,[RFC9606],RESINFO/resinfo-completed-template,2023-11-02
+RKEY,RKEY,[Jim_Reid],RKEY/rkey-completed-template,2008-01-21
+RP,for Responsible Person,[RFC1183],,
+RRSIG,RRSIG,[RFC4034],,
+RT,for Route Through,[RFC1183],,
+SIG,for security signature,[RFC2536][RFC2931][RFC3110][RFC4034],,
+SINK,SINK,[Donald_E_Eastlake][draft-eastlake-kitchen-sink-02],,1997-11-01
+SMIMEA,S/MIME cert association,[RFC8162],SMIMEA/smimea-completed-template,2015-12-01
+SOA,marks the start of a zone of authority,[RFC1035],,
+SPF,,[RFC7208],,
+SRV,Server Selection,[1][RFC2782],,
+SSHFP,SSH Key Fingerprint,[RFC4255],,
+SVCB,General-purpose service binding,[RFC9460],SVCB/svcb-completed-template,2020-06-30
+TA,DNSSEC Trust Authorities,"[Sam_Weiler][
+        Deploying DNSSEC Without a Signed Root.  Technical Report 1999-19,
+Information Networking Institute, Carnegie Mellon University, April 2004.]",,2005-12-13
+TALINK,Trust Anchor LINK,[Wouter_Wijngaards],TALINK/talink-completed-template,2010-02-17
+TKEY,Transaction Key,[RFC2930],,
+TLSA,TLSA,[RFC6698],,
+TSIG,Transaction Signature,[RFC8945],,
+TXT,text strings,[RFC1035],,
+UID,,[IANA-Reserved],,
+UINFO,,[IANA-Reserved],,
+UNSPEC,,[IANA-Reserved],,
+URI,URI,[RFC7553],URI/uri-completed-template,2011-02-22
+WALLET,Public wallet address,[Paul_Hoffman],WALLET/wallet-completed-template,2024-06-21
+WKS,a well known service description,[RFC1035],,
+X25,for X.25 PSDN address,[RFC1183],,
+ZONEMD,Message Digest Over Zone Data,[RFC8976],ZONEMD/zonemd-completed-template,2018-12-12
