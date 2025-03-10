@@ -2,6 +2,8 @@
 
 <img width="470" alt="ThatsMyType" src="https://github.com/user-attachments/assets/f0d19281-8848-4b25-bee4-ffa5905ac683" />
 
+<img width="800" alt="ThatsMyType_2_Redacted" src="https://github.com/user-attachments/assets/d12e8212-e964-458d-8c1e-f89e05910b50" />
+
 DNS enumeration through targeted RFC queries.
 
 # Usage Instructions
