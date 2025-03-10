@@ -10,5 +10,7 @@ DNS enumeration through targeted RFC queries.
    - Results are saved in your working directory based on the type of query ran and the target resolver. (ex: resolutions-ALL-8.8.4.4.txt )
    - If the file already exists, ThatsMyType will append the existing file, so no results are lost.
 
+<img width="470" alt="ThatsMyType" src="https://github.com/user-attachments/assets/f0d19281-8848-4b25-bee4-ffa5905ac683" />
+
 ![image](https://github.com/user-attachments/assets/1c829dd9-0f86-47d0-9f67-5f73f5adf1c8)
 Image Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/5/59/All_active_dns_record_types.png)
