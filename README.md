@@ -17,3 +17,11 @@ DNS enumeration through targeted RFC queries.
 
 ![image](https://github.com/user-attachments/assets/1c829dd9-0f86-47d0-9f67-5f73f5adf1c8)
 Image Source: [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/5/59/All_active_dns_record_types.png)
+
+# Testing Methodologies
+Of course, not all of these will work on every server. But I was surprised to find that it does vary from server to server. 
+
+<img width="1540" alt="IANA_References" src="https://github.com/user-attachments/assets/cc57d3ec-e851-4664-8058-b12d73b0d281" />
+
+
+
